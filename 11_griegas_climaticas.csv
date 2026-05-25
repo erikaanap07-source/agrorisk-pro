@@ -1,0 +1,11 @@
+griega,valor,descripcion
+"Delta
+(vs T, USD/°C)",-2003.8375700665392,USD por °C que sube T base
+"Delta
+(vs HDD)",2003.8375700665392,USD por °C·día adicional de HDD
+"Vega
+(USD/°C σ)",3688.353229966334,USD por °C de volatilidad diaria
+"Theta
+(USD/día·7d)",-0.04173688738817678,USD por día transcurrido (7d restantes)
+"Rho_ENSO
+(USD/idx)",2003.8375700665392,USD por unidad de índice ENSO

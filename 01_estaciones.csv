@@ -1,0 +1,6 @@
+estacion_id,nombre,municipio,departamento,latitud,longitud,altitud_msnm,fuente_datos,activa
+EST001,Facatativá,Facatativá,Cundinamarca,4.8147,-74.3541,2586,IDEAM,True
+EST002,Zipaquirá,Zipaquirá,Cundinamarca,5.0222,-74.0058,2652,IDEAM,True
+EST003,Ubaté,Ubaté,Cundinamarca,5.3122,-73.8181,2556,IDEAM,True
+EST004,Chía,Chía,Cundinamarca,4.861,-74.0317,2562,Open-Meteo,True
+EST005,Fusagasugá,Fusagasugá,Cundinamarca,4.3361,-74.3641,1728,Open-Meteo,True

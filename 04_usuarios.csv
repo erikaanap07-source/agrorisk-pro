@@ -1,0 +1,6 @@
+usuario_id,nombre_empresa,tipo_cultivo,municipio,estacion_id,hectareas,exporta_usd_anual,perfil_riesgo,email,fecha_registro,activo
+USR001,Flores del Sabana S.A.S.,Flores,Chía,EST004,45.0,850000,moderado,riesgos@floressabana.co,2024-01-15,True
+USR002,Exportadora Andina Ltda.,Papa,Zipaquirá,EST002,120.0,420000,conservador,finanzas@expandina.co,2024-02-01,True
+USR003,Agropecuaria Villa Rosa,Café,Facatativá,EST001,30.0,180000,agresivo,gerencia@villarosa.co,2024-03-10,True
+USR004,Hacienda El Roble,Flores,Ubaté,EST003,80.0,620000,moderado,admin@haciendaroble.co,2024-01-28,True
+USR005,CundiFlores Export,Flores,Facatativá,EST001,60.0,540000,conservador,cfo@cundiflores.co,2024-04-05,True

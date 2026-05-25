@@ -1,0 +1,134 @@
+{
+  "suite": "Agro-Risk Pro Test Suite",
+  "version": "1.0",
+  "fecha": "2026-05-24T05:04:42.024822",
+  "resumen": {
+    "total": 12,
+    "pass": 12,
+    "fail": 0,
+    "error": 0,
+    "cobertura_pct": 100.0
+  },
+  "casos": [
+    {
+      "id": "TC-01",
+      "nombre": "Strike negativo",
+      "categoria": "ERROR",
+      "descripcion": "calcular_payoff con strike=-5 debe lanzar ValueError",
+      "estado": "PASS",
+      "esperado": "ValueError: Strike no puede ser negativo",
+      "obtenido": "ValueError: Strike no puede ser negativo: -5",
+      "mensaje": "Validación correcta"
+    },
+    {
+      "id": "TC-02",
+      "nombre": "Tick negativo",
+      "categoria": "ERROR",
+      "descripcion": "calcular_payoff con tick=-50 debe lanzar ValueError",
+      "estado": "PASS",
+      "esperado": "ValueError: Tick no puede ser negativo",
+      "obtenido": "ValueError: Tick no puede ser negativo: -50",
+      "mensaje": "Validación correcta"
+    },
+    {
+      "id": "TC-03",
+      "nombre": "Serie HDD vacía",
+      "categoria": "ERROR",
+      "descripcion": "calcular_prima con lista vacía debe lanzar ValueError",
+      "estado": "PASS",
+      "esperado": "ValueError: Serie HDD vacía",
+      "obtenido": "ValueError: Serie HDD vacía",
+      "mensaje": "Validación correcta"
+    },
+    {
+      "id": "TC-04",
+      "nombre": "TRM negativa",
+      "categoria": "ERROR",
+      "descripcion": "convertir_cop con trm=-100 debe lanzar ValueError",
+      "estado": "PASS",
+      "esperado": "ValueError: TRM debe ser positiva",
+      "obtenido": "ValueError: TRM debe ser positiva: -100",
+      "mensaje": "Validación correcta"
+    },
+    {
+      "id": "TC-05",
+      "nombre": "Fecha formato inválido",
+      "categoria": "ERROR",
+      "descripcion": "generar_tx_json con fecha='31/03/2024' debe lanzar ValueError",
+      "estado": "PASS",
+      "esperado": "ValueError: Fecha inválida",
+      "obtenido": "ValueError: Fecha inválida: 31/03/2024. Usar YYYY-MM-DD",
+      "mensaje": "Validación correcta"
+    },
+    {
+      "id": "TC-06",
+      "nombre": "Monto USDC negativo",
+      "categoria": "ERROR",
+      "descripcion": "generar_tx_json con monto_usdc=-100 debe lanzar ValueError",
+      "estado": "PASS",
+      "esperado": "ValueError: Monto USDC no puede ser negativo",
+      "obtenido": "ValueError: Monto USDC no puede ser negativo: -100.0",
+      "mensaje": "Validación correcta"
+    },
+    {
+      "id": "TC-07",
+      "nombre": "T = umbral exacto",
+      "categoria": "LÍMITE",
+      "descripcion": "calcular_hdd(10.0, umbral=10.0) debe retornar 0.0 exacto",
+      "estado": "PASS",
+      "esperado": "0.0",
+      "obtenido": "0.0",
+      "mensaje": "HDD = 0 cuando T = umbral: correcto"
+    },
+    {
+      "id": "TC-08",
+      "nombre": "HDD = strike exacto",
+      "categoria": "LÍMITE",
+      "descripcion": "calcular_payoff(hdd=38.0, strike=38.0) debe retornar 0.0",
+      "estado": "PASS",
+      "esperado": "0.0",
+      "obtenido": "0.0",
+      "mensaje": "Payoff = 0 cuando HDD = strike: correcto (frontera no incluida)"
+    },
+    {
+      "id": "TC-09",
+      "nombre": "HDD = strike + ε",
+      "categoria": "LÍMITE",
+      "descripcion": "Con HDD=38.001, strike=38, tick=250 → payoff = 0.001 × 250 = 0.25",
+      "estado": "PASS",
+      "esperado": "0.25",
+      "obtenido": "0.25",
+      "mensaje": "Primer pago marginal calculado correctamente"
+    },
+    {
+      "id": "TC-10",
+      "nombre": "Strike = 0",
+      "categoria": "LÍMITE",
+      "descripcion": "Con strike=0, payoff = HDD_total × tick para todos los días",
+      "estado": "PASS",
+      "esperado": "1850.0",
+      "obtenido": "1850.0",
+      "mensaje": "Strike=0 activa toda la serie correctamente"
+    },
+    {
+      "id": "TC-11",
+      "nombre": "Prima pura sin carga",
+      "categoria": "CÁLCULO",
+      "descripcion": "calcular_prima(carga=0) debe ser igual a mean(payoffs) sin margen",
+      "estado": "PASS",
+      "esperado": "4950.0",
+      "obtenido": "4950.0",
+      "mensaje": "Prima pura = USD 4950.00 — coherente"
+    },
+    {
+      "id": "TC-12",
+      "nombre": "Prima comercial = 1.2 × prima pura",
+      "categoria": "CÁLCULO",
+      "descripcion": "Prima con carga=0.20 debe ser 20% mayor que prima con carga=0",
+      "estado": "PASS",
+      "esperado": "ratio = 1.20  (prima_comerc = USD 4848.00)",
+      "obtenido": "ratio = 1.200000  (prima_comerc = USD 4848.00)",
+      "mensaje": "Carga del 20% aplicada correctamente. Prima pura=4040.00 → comercial=4848.00"
+    }
+  ]
+}

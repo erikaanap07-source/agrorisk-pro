@@ -1,0 +1,316 @@
+precio_id,fecha,activo_id,nombre_activo,precio_cop_kg,volumen_ton,mercado,fuente,moneda
+0,2023-01-01,PAPA_PAS,Papa Pastusa,1999.01,438.9,Corabastos Bogotá,DANE-SIPSA,COP
+1,2023-01-01,FLOR_CLV,Clavel Estándar,4523.84,165.7,Exportación Miami,Asocolflores,USD
+2,2023-01-01,CAFE_PER,Café Pergamino Seco,3006.34,80.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+3,2023-01-08,PAPA_PAS,Papa Pastusa,2323.76,511.4,Corabastos Bogotá,DANE-SIPSA,COP
+4,2023-01-08,FLOR_CLV,Clavel Estándar,3965.26,136.3,Exportación Miami,Asocolflores,USD
+5,2023-01-08,CAFE_PER,Café Pergamino Seco,2914.63,75.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+6,2023-01-15,PAPA_PAS,Papa Pastusa,1922.59,296.9,Corabastos Bogotá,DANE-SIPSA,COP
+7,2023-01-15,FLOR_CLV,Clavel Estándar,3337.54,103.1,Exportación Miami,Asocolflores,USD
+8,2023-01-15,CAFE_PER,Café Pergamino Seco,2694.87,91.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+9,2023-01-22,PAPA_PAS,Papa Pastusa,1577.59,337.0,Corabastos Bogotá,DANE-SIPSA,COP
+10,2023-01-22,FLOR_CLV,Clavel Estándar,4932.82,113.2,Exportación Miami,Asocolflores,USD
+11,2023-01-22,CAFE_PER,Café Pergamino Seco,3127.01,56.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+12,2023-01-29,PAPA_PAS,Papa Pastusa,1686.69,458.9,Corabastos Bogotá,DANE-SIPSA,COP
+13,2023-01-29,FLOR_CLV,Clavel Estándar,3624.5,131.3,Exportación Miami,Asocolflores,USD
+14,2023-01-29,CAFE_PER,Café Pergamino Seco,2859.74,79.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+15,2023-02-05,PAPA_PAS,Papa Pastusa,1669.49,598.2,Corabastos Bogotá,DANE-SIPSA,COP
+16,2023-02-05,FLOR_CLV,Clavel Estándar,4193.25,88.3,Exportación Miami,Asocolflores,USD
+17,2023-02-05,CAFE_PER,Café Pergamino Seco,3429.02,60.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+18,2023-02-12,PAPA_PAS,Papa Pastusa,1912.66,293.2,Corabastos Bogotá,DANE-SIPSA,COP
+19,2023-02-12,FLOR_CLV,Clavel Estándar,3535.91,125.9,Exportación Miami,Asocolflores,USD
+20,2023-02-12,CAFE_PER,Café Pergamino Seco,3395.39,88.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+21,2023-02-19,PAPA_PAS,Papa Pastusa,1815.31,425.9,Corabastos Bogotá,DANE-SIPSA,COP
+22,2023-02-19,FLOR_CLV,Clavel Estándar,3460.74,98.4,Exportación Miami,Asocolflores,USD
+23,2023-02-19,CAFE_PER,Café Pergamino Seco,2915.74,106.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+24,2023-02-26,PAPA_PAS,Papa Pastusa,1953.09,309.0,Corabastos Bogotá,DANE-SIPSA,COP
+25,2023-02-26,FLOR_CLV,Clavel Estándar,4362.04,108.4,Exportación Miami,Asocolflores,USD
+26,2023-02-26,CAFE_PER,Café Pergamino Seco,2829.23,97.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+27,2023-03-05,PAPA_PAS,Papa Pastusa,2159.3,524.5,Corabastos Bogotá,DANE-SIPSA,COP
+28,2023-03-05,FLOR_CLV,Clavel Estándar,3780.39,110.7,Exportación Miami,Asocolflores,USD
+29,2023-03-05,CAFE_PER,Café Pergamino Seco,3232.51,104.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+30,2023-03-12,PAPA_PAS,Papa Pastusa,1706.25,435.1,Corabastos Bogotá,DANE-SIPSA,COP
+31,2023-03-12,FLOR_CLV,Clavel Estándar,3646.83,84.1,Exportación Miami,Asocolflores,USD
+32,2023-03-12,CAFE_PER,Café Pergamino Seco,3425.01,112.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+33,2023-03-19,PAPA_PAS,Papa Pastusa,1828.4,530.3,Corabastos Bogotá,DANE-SIPSA,COP
+34,2023-03-19,FLOR_CLV,Clavel Estándar,4380.82,100.6,Exportación Miami,Asocolflores,USD
+35,2023-03-19,CAFE_PER,Café Pergamino Seco,3244.56,115.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+36,2023-03-26,PAPA_PAS,Papa Pastusa,1839.25,575.2,Corabastos Bogotá,DANE-SIPSA,COP
+37,2023-03-26,FLOR_CLV,Clavel Estándar,2890.13,144.7,Exportación Miami,Asocolflores,USD
+38,2023-03-26,CAFE_PER,Café Pergamino Seco,3134.82,79.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+39,2023-04-02,PAPA_PAS,Papa Pastusa,1877.53,291.0,Corabastos Bogotá,DANE-SIPSA,COP
+40,2023-04-02,FLOR_CLV,Clavel Estándar,4090.16,130.7,Exportación Miami,Asocolflores,USD
+41,2023-04-02,CAFE_PER,Café Pergamino Seco,3691.16,74.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+42,2023-04-09,PAPA_PAS,Papa Pastusa,1607.45,409.9,Corabastos Bogotá,DANE-SIPSA,COP
+43,2023-04-09,FLOR_CLV,Clavel Estándar,4657.7,129.9,Exportación Miami,Asocolflores,USD
+44,2023-04-09,CAFE_PER,Café Pergamino Seco,2888.1,95.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+45,2023-04-16,PAPA_PAS,Papa Pastusa,1879.12,527.5,Corabastos Bogotá,DANE-SIPSA,COP
+46,2023-04-16,FLOR_CLV,Clavel Estándar,3848.97,110.2,Exportación Miami,Asocolflores,USD
+47,2023-04-16,CAFE_PER,Café Pergamino Seco,2943.16,55.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+48,2023-04-23,PAPA_PAS,Papa Pastusa,1938.84,470.9,Corabastos Bogotá,DANE-SIPSA,COP
+49,2023-04-23,FLOR_CLV,Clavel Estándar,4202.56,113.0,Exportación Miami,Asocolflores,USD
+50,2023-04-23,CAFE_PER,Café Pergamino Seco,2533.85,76.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+51,2023-04-30,PAPA_PAS,Papa Pastusa,1747.19,385.8,Corabastos Bogotá,DANE-SIPSA,COP
+52,2023-04-30,FLOR_CLV,Clavel Estándar,4119.36,132.1,Exportación Miami,Asocolflores,USD
+53,2023-04-30,CAFE_PER,Café Pergamino Seco,3854.47,88.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+54,2023-05-07,PAPA_PAS,Papa Pastusa,1927.27,444.0,Corabastos Bogotá,DANE-SIPSA,COP
+55,2023-05-07,FLOR_CLV,Clavel Estándar,3240.61,119.2,Exportación Miami,Asocolflores,USD
+56,2023-05-07,CAFE_PER,Café Pergamino Seco,3124.09,134.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+57,2023-05-14,PAPA_PAS,Papa Pastusa,1792.29,474.1,Corabastos Bogotá,DANE-SIPSA,COP
+58,2023-05-14,FLOR_CLV,Clavel Estándar,4182.64,84.9,Exportación Miami,Asocolflores,USD
+59,2023-05-14,CAFE_PER,Café Pergamino Seco,3557.13,100.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+60,2023-05-21,PAPA_PAS,Papa Pastusa,2087.31,377.2,Corabastos Bogotá,DANE-SIPSA,COP
+61,2023-05-21,FLOR_CLV,Clavel Estándar,4901.4,77.9,Exportación Miami,Asocolflores,USD
+62,2023-05-21,CAFE_PER,Café Pergamino Seco,3334.74,128.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+63,2023-05-28,PAPA_PAS,Papa Pastusa,1552.84,404.7,Corabastos Bogotá,DANE-SIPSA,COP
+64,2023-05-28,FLOR_CLV,Clavel Estándar,4249.83,104.9,Exportación Miami,Asocolflores,USD
+65,2023-05-28,CAFE_PER,Café Pergamino Seco,2479.73,86.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+66,2023-06-04,PAPA_PAS,Papa Pastusa,1531.31,487.9,Corabastos Bogotá,DANE-SIPSA,COP
+67,2023-06-04,FLOR_CLV,Clavel Estándar,3740.29,166.5,Exportación Miami,Asocolflores,USD
+68,2023-06-04,CAFE_PER,Café Pergamino Seco,2786.7,78.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+69,2023-06-11,PAPA_PAS,Papa Pastusa,2094.06,351.5,Corabastos Bogotá,DANE-SIPSA,COP
+70,2023-06-11,FLOR_CLV,Clavel Estándar,4313.73,159.2,Exportación Miami,Asocolflores,USD
+71,2023-06-11,CAFE_PER,Café Pergamino Seco,2457.01,88.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+72,2023-06-18,PAPA_PAS,Papa Pastusa,1927.96,512.5,Corabastos Bogotá,DANE-SIPSA,COP
+73,2023-06-18,FLOR_CLV,Clavel Estándar,3581.52,80.4,Exportación Miami,Asocolflores,USD
+74,2023-06-18,CAFE_PER,Café Pergamino Seco,3308.78,90.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+75,2023-06-25,PAPA_PAS,Papa Pastusa,1925.15,477.7,Corabastos Bogotá,DANE-SIPSA,COP
+76,2023-06-25,FLOR_CLV,Clavel Estándar,3859.99,127.0,Exportación Miami,Asocolflores,USD
+77,2023-06-25,CAFE_PER,Café Pergamino Seco,3217.23,70.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+78,2023-07-02,PAPA_PAS,Papa Pastusa,2409.73,487.9,Corabastos Bogotá,DANE-SIPSA,COP
+79,2023-07-02,FLOR_CLV,Clavel Estándar,3604.35,139.7,Exportación Miami,Asocolflores,USD
+80,2023-07-02,CAFE_PER,Café Pergamino Seco,2710.13,100.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+81,2023-07-09,PAPA_PAS,Papa Pastusa,2197.58,384.3,Corabastos Bogotá,DANE-SIPSA,COP
+82,2023-07-09,FLOR_CLV,Clavel Estándar,4681.69,132.4,Exportación Miami,Asocolflores,USD
+83,2023-07-09,CAFE_PER,Café Pergamino Seco,3428.82,122.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+84,2023-07-16,PAPA_PAS,Papa Pastusa,1776.38,389.7,Corabastos Bogotá,DANE-SIPSA,COP
+85,2023-07-16,FLOR_CLV,Clavel Estándar,3755.24,95.5,Exportación Miami,Asocolflores,USD
+86,2023-07-16,CAFE_PER,Café Pergamino Seco,3069.16,91.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+87,2023-07-23,PAPA_PAS,Papa Pastusa,1933.01,516.2,Corabastos Bogotá,DANE-SIPSA,COP
+88,2023-07-23,FLOR_CLV,Clavel Estándar,4206.5,163.6,Exportación Miami,Asocolflores,USD
+89,2023-07-23,CAFE_PER,Café Pergamino Seco,2994.14,139.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+90,2023-07-30,PAPA_PAS,Papa Pastusa,2037.7,381.4,Corabastos Bogotá,DANE-SIPSA,COP
+91,2023-07-30,FLOR_CLV,Clavel Estándar,3664.55,134.5,Exportación Miami,Asocolflores,USD
+92,2023-07-30,CAFE_PER,Café Pergamino Seco,3010.61,99.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+93,2023-08-06,PAPA_PAS,Papa Pastusa,1991.97,444.2,Corabastos Bogotá,DANE-SIPSA,COP
+94,2023-08-06,FLOR_CLV,Clavel Estándar,3776.6,74.6,Exportación Miami,Asocolflores,USD
+95,2023-08-06,CAFE_PER,Café Pergamino Seco,2921.39,102.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+96,2023-08-13,PAPA_PAS,Papa Pastusa,1914.23,350.3,Corabastos Bogotá,DANE-SIPSA,COP
+97,2023-08-13,FLOR_CLV,Clavel Estándar,4286.59,131.6,Exportación Miami,Asocolflores,USD
+98,2023-08-13,CAFE_PER,Café Pergamino Seco,2746.46,88.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+99,2023-08-20,PAPA_PAS,Papa Pastusa,1867.46,358.6,Corabastos Bogotá,DANE-SIPSA,COP
+100,2023-08-20,FLOR_CLV,Clavel Estándar,4378.89,136.8,Exportación Miami,Asocolflores,USD
+101,2023-08-20,CAFE_PER,Café Pergamino Seco,3533.22,106.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+102,2023-08-27,PAPA_PAS,Papa Pastusa,1436.7,375.0,Corabastos Bogotá,DANE-SIPSA,COP
+103,2023-08-27,FLOR_CLV,Clavel Estándar,4457.52,135.4,Exportación Miami,Asocolflores,USD
+104,2023-08-27,CAFE_PER,Café Pergamino Seco,3306.02,162.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+105,2023-09-03,PAPA_PAS,Papa Pastusa,2021.27,540.8,Corabastos Bogotá,DANE-SIPSA,COP
+106,2023-09-03,FLOR_CLV,Clavel Estándar,4677.0,139.5,Exportación Miami,Asocolflores,USD
+107,2023-09-03,CAFE_PER,Café Pergamino Seco,2973.89,100.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+108,2023-09-10,PAPA_PAS,Papa Pastusa,1618.15,431.1,Corabastos Bogotá,DANE-SIPSA,COP
+109,2023-09-10,FLOR_CLV,Clavel Estándar,3957.32,122.5,Exportación Miami,Asocolflores,USD
+110,2023-09-10,CAFE_PER,Café Pergamino Seco,4025.86,47.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+111,2023-09-17,PAPA_PAS,Papa Pastusa,2055.88,321.0,Corabastos Bogotá,DANE-SIPSA,COP
+112,2023-09-17,FLOR_CLV,Clavel Estándar,3964.03,152.7,Exportación Miami,Asocolflores,USD
+113,2023-09-17,CAFE_PER,Café Pergamino Seco,3125.71,63.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+114,2023-09-24,PAPA_PAS,Papa Pastusa,1635.41,504.4,Corabastos Bogotá,DANE-SIPSA,COP
+115,2023-09-24,FLOR_CLV,Clavel Estándar,3834.82,126.5,Exportación Miami,Asocolflores,USD
+116,2023-09-24,CAFE_PER,Café Pergamino Seco,3118.23,72.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+117,2023-10-01,PAPA_PAS,Papa Pastusa,2493.18,500.7,Corabastos Bogotá,DANE-SIPSA,COP
+118,2023-10-01,FLOR_CLV,Clavel Estándar,3187.43,125.6,Exportación Miami,Asocolflores,USD
+119,2023-10-01,CAFE_PER,Café Pergamino Seco,2835.29,102.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+120,2023-10-08,PAPA_PAS,Papa Pastusa,1612.24,440.8,Corabastos Bogotá,DANE-SIPSA,COP
+121,2023-10-08,FLOR_CLV,Clavel Estándar,4452.49,146.0,Exportación Miami,Asocolflores,USD
+122,2023-10-08,CAFE_PER,Café Pergamino Seco,2619.88,78.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+123,2023-10-15,PAPA_PAS,Papa Pastusa,1707.52,397.7,Corabastos Bogotá,DANE-SIPSA,COP
+124,2023-10-15,FLOR_CLV,Clavel Estándar,5082.73,132.1,Exportación Miami,Asocolflores,USD
+125,2023-10-15,CAFE_PER,Café Pergamino Seco,2595.65,103.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+126,2023-10-22,PAPA_PAS,Papa Pastusa,2486.65,532.6,Corabastos Bogotá,DANE-SIPSA,COP
+127,2023-10-22,FLOR_CLV,Clavel Estándar,3440.32,105.5,Exportación Miami,Asocolflores,USD
+128,2023-10-22,CAFE_PER,Café Pergamino Seco,3606.76,70.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+129,2023-10-29,PAPA_PAS,Papa Pastusa,1983.15,512.0,Corabastos Bogotá,DANE-SIPSA,COP
+130,2023-10-29,FLOR_CLV,Clavel Estándar,3736.53,118.2,Exportación Miami,Asocolflores,USD
+131,2023-10-29,CAFE_PER,Café Pergamino Seco,1803.49,64.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+132,2023-11-05,PAPA_PAS,Papa Pastusa,1774.23,350.2,Corabastos Bogotá,DANE-SIPSA,COP
+133,2023-11-05,FLOR_CLV,Clavel Estándar,5016.21,77.1,Exportación Miami,Asocolflores,USD
+134,2023-11-05,CAFE_PER,Café Pergamino Seco,2923.98,87.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+135,2023-11-12,PAPA_PAS,Papa Pastusa,2282.38,335.1,Corabastos Bogotá,DANE-SIPSA,COP
+136,2023-11-12,FLOR_CLV,Clavel Estándar,4781.58,120.3,Exportación Miami,Asocolflores,USD
+137,2023-11-12,CAFE_PER,Café Pergamino Seco,2707.4,94.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+138,2023-11-19,PAPA_PAS,Papa Pastusa,1909.72,402.0,Corabastos Bogotá,DANE-SIPSA,COP
+139,2023-11-19,FLOR_CLV,Clavel Estándar,4234.9,108.4,Exportación Miami,Asocolflores,USD
+140,2023-11-19,CAFE_PER,Café Pergamino Seco,3145.41,98.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+141,2023-11-26,PAPA_PAS,Papa Pastusa,2325.81,351.0,Corabastos Bogotá,DANE-SIPSA,COP
+142,2023-11-26,FLOR_CLV,Clavel Estándar,5266.52,61.4,Exportación Miami,Asocolflores,USD
+143,2023-11-26,CAFE_PER,Café Pergamino Seco,3039.29,96.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+144,2023-12-03,PAPA_PAS,Papa Pastusa,1934.3,400.2,Corabastos Bogotá,DANE-SIPSA,COP
+145,2023-12-03,FLOR_CLV,Clavel Estándar,4095.94,105.2,Exportación Miami,Asocolflores,USD
+146,2023-12-03,CAFE_PER,Café Pergamino Seco,2864.25,102.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+147,2023-12-10,PAPA_PAS,Papa Pastusa,1957.1,394.6,Corabastos Bogotá,DANE-SIPSA,COP
+148,2023-12-10,FLOR_CLV,Clavel Estándar,4649.8,129.2,Exportación Miami,Asocolflores,USD
+149,2023-12-10,CAFE_PER,Café Pergamino Seco,3425.14,97.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+150,2023-12-17,PAPA_PAS,Papa Pastusa,1601.3,405.2,Corabastos Bogotá,DANE-SIPSA,COP
+151,2023-12-17,FLOR_CLV,Clavel Estándar,4573.65,138.3,Exportación Miami,Asocolflores,USD
+152,2023-12-17,CAFE_PER,Café Pergamino Seco,3091.64,87.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+153,2023-12-24,PAPA_PAS,Papa Pastusa,2233.3,402.7,Corabastos Bogotá,DANE-SIPSA,COP
+154,2023-12-24,FLOR_CLV,Clavel Estándar,4473.55,113.9,Exportación Miami,Asocolflores,USD
+155,2023-12-24,CAFE_PER,Café Pergamino Seco,3012.93,107.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+156,2023-12-31,PAPA_PAS,Papa Pastusa,2097.62,515.1,Corabastos Bogotá,DANE-SIPSA,COP
+157,2023-12-31,FLOR_CLV,Clavel Estándar,4852.74,120.6,Exportación Miami,Asocolflores,USD
+158,2023-12-31,CAFE_PER,Café Pergamino Seco,3372.78,78.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+159,2024-01-07,PAPA_PAS,Papa Pastusa,1947.25,439.6,Corabastos Bogotá,DANE-SIPSA,COP
+160,2024-01-07,FLOR_CLV,Clavel Estándar,4248.5,137.9,Exportación Miami,Asocolflores,USD
+161,2024-01-07,CAFE_PER,Café Pergamino Seco,2772.71,126.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+162,2024-01-14,PAPA_PAS,Papa Pastusa,1548.19,352.9,Corabastos Bogotá,DANE-SIPSA,COP
+163,2024-01-14,FLOR_CLV,Clavel Estándar,4779.06,143.7,Exportación Miami,Asocolflores,USD
+164,2024-01-14,CAFE_PER,Café Pergamino Seco,3349.65,97.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+165,2024-01-21,PAPA_PAS,Papa Pastusa,1846.33,378.2,Corabastos Bogotá,DANE-SIPSA,COP
+166,2024-01-21,FLOR_CLV,Clavel Estándar,4237.9,99.7,Exportación Miami,Asocolflores,USD
+167,2024-01-21,CAFE_PER,Café Pergamino Seco,3490.05,82.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+168,2024-01-28,PAPA_PAS,Papa Pastusa,1602.35,424.3,Corabastos Bogotá,DANE-SIPSA,COP
+169,2024-01-28,FLOR_CLV,Clavel Estándar,4406.47,103.1,Exportación Miami,Asocolflores,USD
+170,2024-01-28,CAFE_PER,Café Pergamino Seco,2771.11,89.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+171,2024-02-04,PAPA_PAS,Papa Pastusa,1923.49,409.4,Corabastos Bogotá,DANE-SIPSA,COP
+172,2024-02-04,FLOR_CLV,Clavel Estándar,3964.48,127.0,Exportación Miami,Asocolflores,USD
+173,2024-02-04,CAFE_PER,Café Pergamino Seco,2520.77,56.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+174,2024-02-11,PAPA_PAS,Papa Pastusa,1634.47,432.9,Corabastos Bogotá,DANE-SIPSA,COP
+175,2024-02-11,FLOR_CLV,Clavel Estándar,4355.45,164.3,Exportación Miami,Asocolflores,USD
+176,2024-02-11,CAFE_PER,Café Pergamino Seco,3443.06,81.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+177,2024-02-18,PAPA_PAS,Papa Pastusa,1844.3,369.8,Corabastos Bogotá,DANE-SIPSA,COP
+178,2024-02-18,FLOR_CLV,Clavel Estándar,4190.74,111.3,Exportación Miami,Asocolflores,USD
+179,2024-02-18,CAFE_PER,Café Pergamino Seco,3229.09,68.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+180,2024-02-25,PAPA_PAS,Papa Pastusa,2005.8,572.6,Corabastos Bogotá,DANE-SIPSA,COP
+181,2024-02-25,FLOR_CLV,Clavel Estándar,4145.62,132.1,Exportación Miami,Asocolflores,USD
+182,2024-02-25,CAFE_PER,Café Pergamino Seco,3376.06,77.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+183,2024-03-03,PAPA_PAS,Papa Pastusa,1917.23,451.0,Corabastos Bogotá,DANE-SIPSA,COP
+184,2024-03-03,FLOR_CLV,Clavel Estándar,4248.84,96.8,Exportación Miami,Asocolflores,USD
+185,2024-03-03,CAFE_PER,Café Pergamino Seco,3109.8,95.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+186,2024-03-10,PAPA_PAS,Papa Pastusa,2285.34,526.7,Corabastos Bogotá,DANE-SIPSA,COP
+187,2024-03-10,FLOR_CLV,Clavel Estándar,5276.59,97.0,Exportación Miami,Asocolflores,USD
+188,2024-03-10,CAFE_PER,Café Pergamino Seco,3448.93,88.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+189,2024-03-17,PAPA_PAS,Papa Pastusa,2506.94,385.3,Corabastos Bogotá,DANE-SIPSA,COP
+190,2024-03-17,FLOR_CLV,Clavel Estándar,3780.14,102.0,Exportación Miami,Asocolflores,USD
+191,2024-03-17,CAFE_PER,Café Pergamino Seco,2250.44,74.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+192,2024-03-24,PAPA_PAS,Papa Pastusa,1622.26,462.0,Corabastos Bogotá,DANE-SIPSA,COP
+193,2024-03-24,FLOR_CLV,Clavel Estándar,4370.88,176.3,Exportación Miami,Asocolflores,USD
+194,2024-03-24,CAFE_PER,Café Pergamino Seco,3480.17,73.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+195,2024-03-31,PAPA_PAS,Papa Pastusa,1580.48,489.4,Corabastos Bogotá,DANE-SIPSA,COP
+196,2024-03-31,FLOR_CLV,Clavel Estándar,3539.88,174.9,Exportación Miami,Asocolflores,USD
+197,2024-03-31,CAFE_PER,Café Pergamino Seco,3571.78,75.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+198,2024-04-07,PAPA_PAS,Papa Pastusa,1336.06,558.3,Corabastos Bogotá,DANE-SIPSA,COP
+199,2024-04-07,FLOR_CLV,Clavel Estándar,4142.73,157.1,Exportación Miami,Asocolflores,USD
+200,2024-04-07,CAFE_PER,Café Pergamino Seco,2462.23,73.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+201,2024-04-14,PAPA_PAS,Papa Pastusa,1851.57,453.8,Corabastos Bogotá,DANE-SIPSA,COP
+202,2024-04-14,FLOR_CLV,Clavel Estándar,3974.97,138.7,Exportación Miami,Asocolflores,USD
+203,2024-04-14,CAFE_PER,Café Pergamino Seco,2672.95,82.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+204,2024-04-21,PAPA_PAS,Papa Pastusa,1886.09,491.2,Corabastos Bogotá,DANE-SIPSA,COP
+205,2024-04-21,FLOR_CLV,Clavel Estándar,4555.81,86.3,Exportación Miami,Asocolflores,USD
+206,2024-04-21,CAFE_PER,Café Pergamino Seco,2486.35,110.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+207,2024-04-28,PAPA_PAS,Papa Pastusa,1949.69,390.1,Corabastos Bogotá,DANE-SIPSA,COP
+208,2024-04-28,FLOR_CLV,Clavel Estándar,4975.58,123.5,Exportación Miami,Asocolflores,USD
+209,2024-04-28,CAFE_PER,Café Pergamino Seco,3571.72,86.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+210,2024-05-05,PAPA_PAS,Papa Pastusa,2468.22,590.4,Corabastos Bogotá,DANE-SIPSA,COP
+211,2024-05-05,FLOR_CLV,Clavel Estándar,4075.52,149.1,Exportación Miami,Asocolflores,USD
+212,2024-05-05,CAFE_PER,Café Pergamino Seco,3358.15,112.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+213,2024-05-12,PAPA_PAS,Papa Pastusa,1560.52,504.9,Corabastos Bogotá,DANE-SIPSA,COP
+214,2024-05-12,FLOR_CLV,Clavel Estándar,4729.21,67.2,Exportación Miami,Asocolflores,USD
+215,2024-05-12,CAFE_PER,Café Pergamino Seco,2626.7,44.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+216,2024-05-19,PAPA_PAS,Papa Pastusa,1769.18,507.4,Corabastos Bogotá,DANE-SIPSA,COP
+217,2024-05-19,FLOR_CLV,Clavel Estándar,4951.18,122.2,Exportación Miami,Asocolflores,USD
+218,2024-05-19,CAFE_PER,Café Pergamino Seco,3751.45,57.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+219,2024-05-26,PAPA_PAS,Papa Pastusa,1338.99,445.6,Corabastos Bogotá,DANE-SIPSA,COP
+220,2024-05-26,FLOR_CLV,Clavel Estándar,4392.03,119.0,Exportación Miami,Asocolflores,USD
+221,2024-05-26,CAFE_PER,Café Pergamino Seco,2273.02,83.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+222,2024-06-02,PAPA_PAS,Papa Pastusa,1458.66,503.6,Corabastos Bogotá,DANE-SIPSA,COP
+223,2024-06-02,FLOR_CLV,Clavel Estándar,4383.3,91.8,Exportación Miami,Asocolflores,USD
+224,2024-06-02,CAFE_PER,Café Pergamino Seco,2894.45,63.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+225,2024-06-09,PAPA_PAS,Papa Pastusa,1831.2,526.4,Corabastos Bogotá,DANE-SIPSA,COP
+226,2024-06-09,FLOR_CLV,Clavel Estándar,3707.14,135.1,Exportación Miami,Asocolflores,USD
+227,2024-06-09,CAFE_PER,Café Pergamino Seco,2887.9,69.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+228,2024-06-16,PAPA_PAS,Papa Pastusa,1817.89,367.2,Corabastos Bogotá,DANE-SIPSA,COP
+229,2024-06-16,FLOR_CLV,Clavel Estándar,3923.18,84.1,Exportación Miami,Asocolflores,USD
+230,2024-06-16,CAFE_PER,Café Pergamino Seco,3885.89,85.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+231,2024-06-23,PAPA_PAS,Papa Pastusa,1640.08,467.1,Corabastos Bogotá,DANE-SIPSA,COP
+232,2024-06-23,FLOR_CLV,Clavel Estándar,4143.84,113.4,Exportación Miami,Asocolflores,USD
+233,2024-06-23,CAFE_PER,Café Pergamino Seco,3345.67,100.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+234,2024-06-30,PAPA_PAS,Papa Pastusa,1690.85,403.9,Corabastos Bogotá,DANE-SIPSA,COP
+235,2024-06-30,FLOR_CLV,Clavel Estándar,4062.47,50.9,Exportación Miami,Asocolflores,USD
+236,2024-06-30,CAFE_PER,Café Pergamino Seco,2493.92,112.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+237,2024-07-07,PAPA_PAS,Papa Pastusa,2343.49,430.1,Corabastos Bogotá,DANE-SIPSA,COP
+238,2024-07-07,FLOR_CLV,Clavel Estándar,4488.28,129.3,Exportación Miami,Asocolflores,USD
+239,2024-07-07,CAFE_PER,Café Pergamino Seco,4331.55,107.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+240,2024-07-14,PAPA_PAS,Papa Pastusa,1811.62,373.6,Corabastos Bogotá,DANE-SIPSA,COP
+241,2024-07-14,FLOR_CLV,Clavel Estándar,3396.78,126.1,Exportación Miami,Asocolflores,USD
+242,2024-07-14,CAFE_PER,Café Pergamino Seco,2797.46,56.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+243,2024-07-21,PAPA_PAS,Papa Pastusa,1656.03,363.5,Corabastos Bogotá,DANE-SIPSA,COP
+244,2024-07-21,FLOR_CLV,Clavel Estándar,5043.57,146.4,Exportación Miami,Asocolflores,USD
+245,2024-07-21,CAFE_PER,Café Pergamino Seco,3096.81,114.6,FNC Colombia,Federación Nacional de Cafeteros,COP
+246,2024-07-28,PAPA_PAS,Papa Pastusa,1873.21,381.1,Corabastos Bogotá,DANE-SIPSA,COP
+247,2024-07-28,FLOR_CLV,Clavel Estándar,4961.56,136.2,Exportación Miami,Asocolflores,USD
+248,2024-07-28,CAFE_PER,Café Pergamino Seco,2685.1,81.2,FNC Colombia,Federación Nacional de Cafeteros,COP
+249,2024-08-04,PAPA_PAS,Papa Pastusa,1587.31,339.4,Corabastos Bogotá,DANE-SIPSA,COP
+250,2024-08-04,FLOR_CLV,Clavel Estándar,4663.09,177.3,Exportación Miami,Asocolflores,USD
+251,2024-08-04,CAFE_PER,Café Pergamino Seco,2540.57,96.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+252,2024-08-11,PAPA_PAS,Papa Pastusa,1654.81,411.0,Corabastos Bogotá,DANE-SIPSA,COP
+253,2024-08-11,FLOR_CLV,Clavel Estándar,3903.8,94.1,Exportación Miami,Asocolflores,USD
+254,2024-08-11,CAFE_PER,Café Pergamino Seco,3119.41,68.4,FNC Colombia,Federación Nacional de Cafeteros,COP
+255,2024-08-18,PAPA_PAS,Papa Pastusa,1931.14,446.0,Corabastos Bogotá,DANE-SIPSA,COP
+256,2024-08-18,FLOR_CLV,Clavel Estándar,4080.53,92.8,Exportación Miami,Asocolflores,USD
+257,2024-08-18,CAFE_PER,Café Pergamino Seco,2869.29,100.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+258,2024-08-25,PAPA_PAS,Papa Pastusa,2000.28,371.8,Corabastos Bogotá,DANE-SIPSA,COP
+259,2024-08-25,FLOR_CLV,Clavel Estándar,4249.67,142.5,Exportación Miami,Asocolflores,USD
+260,2024-08-25,CAFE_PER,Café Pergamino Seco,2432.24,95.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+261,2024-09-01,PAPA_PAS,Papa Pastusa,1651.21,495.6,Corabastos Bogotá,DANE-SIPSA,COP
+262,2024-09-01,FLOR_CLV,Clavel Estándar,3818.37,65.9,Exportación Miami,Asocolflores,USD
+263,2024-09-01,CAFE_PER,Café Pergamino Seco,2448.98,86.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+264,2024-09-08,PAPA_PAS,Papa Pastusa,1927.92,377.7,Corabastos Bogotá,DANE-SIPSA,COP
+265,2024-09-08,FLOR_CLV,Clavel Estándar,4519.3,70.2,Exportación Miami,Asocolflores,USD
+266,2024-09-08,CAFE_PER,Café Pergamino Seco,3073.57,60.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+267,2024-09-15,PAPA_PAS,Papa Pastusa,1654.45,453.8,Corabastos Bogotá,DANE-SIPSA,COP
+268,2024-09-15,FLOR_CLV,Clavel Estándar,3769.79,108.5,Exportación Miami,Asocolflores,USD
+269,2024-09-15,CAFE_PER,Café Pergamino Seco,3502.52,73.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+270,2024-09-22,PAPA_PAS,Papa Pastusa,2100.71,359.6,Corabastos Bogotá,DANE-SIPSA,COP
+271,2024-09-22,FLOR_CLV,Clavel Estándar,4464.9,163.2,Exportación Miami,Asocolflores,USD
+272,2024-09-22,CAFE_PER,Café Pergamino Seco,2111.34,69.1,FNC Colombia,Federación Nacional de Cafeteros,COP
+273,2024-09-29,PAPA_PAS,Papa Pastusa,2023.12,433.8,Corabastos Bogotá,DANE-SIPSA,COP
+274,2024-09-29,FLOR_CLV,Clavel Estándar,4385.57,101.9,Exportación Miami,Asocolflores,USD
+275,2024-09-29,CAFE_PER,Café Pergamino Seco,3134.64,81.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+276,2024-10-06,PAPA_PAS,Papa Pastusa,2200.33,470.4,Corabastos Bogotá,DANE-SIPSA,COP
+277,2024-10-06,FLOR_CLV,Clavel Estándar,4368.8,107.6,Exportación Miami,Asocolflores,USD
+278,2024-10-06,CAFE_PER,Café Pergamino Seco,2904.96,76.3,FNC Colombia,Federación Nacional de Cafeteros,COP
+279,2024-10-13,PAPA_PAS,Papa Pastusa,1968.34,416.3,Corabastos Bogotá,DANE-SIPSA,COP
+280,2024-10-13,FLOR_CLV,Clavel Estándar,4344.89,182.3,Exportación Miami,Asocolflores,USD
+281,2024-10-13,CAFE_PER,Café Pergamino Seco,3448.45,78.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+282,2024-10-20,PAPA_PAS,Papa Pastusa,2210.36,417.4,Corabastos Bogotá,DANE-SIPSA,COP
+283,2024-10-20,FLOR_CLV,Clavel Estándar,3180.94,89.8,Exportación Miami,Asocolflores,USD
+284,2024-10-20,CAFE_PER,Café Pergamino Seco,2351.68,78.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+285,2024-10-27,PAPA_PAS,Papa Pastusa,1855.53,584.1,Corabastos Bogotá,DANE-SIPSA,COP
+286,2024-10-27,FLOR_CLV,Clavel Estándar,4363.46,113.4,Exportación Miami,Asocolflores,USD
+287,2024-10-27,CAFE_PER,Café Pergamino Seco,3431.76,40.8,FNC Colombia,Federación Nacional de Cafeteros,COP
+288,2024-11-03,PAPA_PAS,Papa Pastusa,1920.68,511.7,Corabastos Bogotá,DANE-SIPSA,COP
+289,2024-11-03,FLOR_CLV,Clavel Estándar,3460.71,154.3,Exportación Miami,Asocolflores,USD
+290,2024-11-03,CAFE_PER,Café Pergamino Seco,3235.4,76.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+291,2024-11-10,PAPA_PAS,Papa Pastusa,2039.83,631.7,Corabastos Bogotá,DANE-SIPSA,COP
+292,2024-11-10,FLOR_CLV,Clavel Estándar,4290.93,127.4,Exportación Miami,Asocolflores,USD
+293,2024-11-10,CAFE_PER,Café Pergamino Seco,2916.26,68.0,FNC Colombia,Federación Nacional de Cafeteros,COP
+294,2024-11-17,PAPA_PAS,Papa Pastusa,2099.1,381.5,Corabastos Bogotá,DANE-SIPSA,COP
+295,2024-11-17,FLOR_CLV,Clavel Estándar,4235.78,105.7,Exportación Miami,Asocolflores,USD
+296,2024-11-17,CAFE_PER,Café Pergamino Seco,3291.59,91.7,FNC Colombia,Federación Nacional de Cafeteros,COP
+297,2024-11-24,PAPA_PAS,Papa Pastusa,2161.26,409.2,Corabastos Bogotá,DANE-SIPSA,COP
+298,2024-11-24,FLOR_CLV,Clavel Estándar,4065.06,90.6,Exportación Miami,Asocolflores,USD
+299,2024-11-24,CAFE_PER,Café Pergamino Seco,2922.28,92.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+300,2024-12-01,PAPA_PAS,Papa Pastusa,2077.1,376.2,Corabastos Bogotá,DANE-SIPSA,COP
+301,2024-12-01,FLOR_CLV,Clavel Estándar,4634.8,160.7,Exportación Miami,Asocolflores,USD
+302,2024-12-01,CAFE_PER,Café Pergamino Seco,3265.37,122.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+303,2024-12-08,PAPA_PAS,Papa Pastusa,1617.86,350.4,Corabastos Bogotá,DANE-SIPSA,COP
+304,2024-12-08,FLOR_CLV,Clavel Estándar,3310.64,164.9,Exportación Miami,Asocolflores,USD
+305,2024-12-08,CAFE_PER,Café Pergamino Seco,3361.75,83.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+306,2024-12-15,PAPA_PAS,Papa Pastusa,1933.99,360.0,Corabastos Bogotá,DANE-SIPSA,COP
+307,2024-12-15,FLOR_CLV,Clavel Estándar,5422.88,123.9,Exportación Miami,Asocolflores,USD
+308,2024-12-15,CAFE_PER,Café Pergamino Seco,3143.76,99.5,FNC Colombia,Federación Nacional de Cafeteros,COP
+309,2024-12-22,PAPA_PAS,Papa Pastusa,1994.3,467.9,Corabastos Bogotá,DANE-SIPSA,COP
+310,2024-12-22,FLOR_CLV,Clavel Estándar,3804.76,134.1,Exportación Miami,Asocolflores,USD
+311,2024-12-22,CAFE_PER,Café Pergamino Seco,3852.81,111.9,FNC Colombia,Federación Nacional de Cafeteros,COP
+312,2024-12-29,PAPA_PAS,Papa Pastusa,2327.96,409.1,Corabastos Bogotá,DANE-SIPSA,COP
+313,2024-12-29,FLOR_CLV,Clavel Estándar,3705.2,116.2,Exportación Miami,Asocolflores,USD
+314,2024-12-29,CAFE_PER,Café Pergamino Seco,3122.29,106.9,FNC Colombia,Federación Nacional de Cafeteros,COP
